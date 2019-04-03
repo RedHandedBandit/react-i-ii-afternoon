@@ -1,0 +1,13 @@
+.header {
+    background-color: rgb(51, 165, 218);
+    height: 70px;
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+.span {
+    margin-left: 25px;
+    cursor: pointer;
+}

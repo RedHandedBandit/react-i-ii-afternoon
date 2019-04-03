@@ -1,0 +1,111 @@
+.allContent_wrapped {
+    background-color: rgb(235, 235, 235);
+    padding-left: 60px;
+    height: 500px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 2px;
+}
+
+.id {
+    text-align: right;
+    margin-right: 15px;
+    padding-top: 15px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.firstAndLastName {
+    font-size: 30px;
+    text-decoration: underline #47ACDC;
+}
+
+.job_description {
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.movie_div {
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+li {
+    list-style-type: none;
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.allBtns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.previous {
+    font-size: 20px;
+    color: white;
+    background: none;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 8px;
+}
+
+.next {
+    font-size: 20px;
+    color: white;
+    background: none;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 8px;
+}
+
+.edit {
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 8px;
+    width: 65px;
+    color: white;
+    background-color: #47ACDC;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.delete {
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 8px;
+    width: 65px;
+    color: white;
+    background-color: #47ACDC;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.new {
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 8px;
+    width: 65px;
+    color: white;
+    background-color: #47ACDC;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.message {
+    color: red;
+    text-align: center;
+    font-size: 17px;
+    text-transform: uppercase;
+    margin-top: 25px;
+    font-weight: 700;
+}
